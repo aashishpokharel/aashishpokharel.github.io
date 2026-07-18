@@ -33,6 +33,12 @@ I am a Data Scientist and Machine Learning Engineer specializing in developing s
 - **Top of the Class'22**
 - **Dissertation:** Handwritten Digit Recognition from License Plates for Low Resource Language (Nepali)
 
+## Research Interests
+
+**Efficient Machine Learning:** Deep Learning Models (especially LLMs) are extremely powerful but come with high computational, memory, and energy costs. Efficient Deep Learning aims to optimize these models through techniques like compression, pruning, and distillation, enabling them to remain lightweight and scalable without losing performance.
+
+**Machine Unlearning:** ML models (especially) LLM soak up a lot of information, including information from private and harmful data. Machine Unlearning aims to remove the effect of these data from the weights of the model without having to retrain it.
+
 ## Technical Skills
 
 - **Language:** Python, C, C++, Bash, LaTeX
